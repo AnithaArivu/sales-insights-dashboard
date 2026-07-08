@@ -16,3 +16,4 @@ SELECT Category, SUM(Profit)/SUM(Sales)*100 AS Profit_Margin_Percentage
 FROM Orders
 GROUP BY Category
 ORDER BY Profit_Margin_Percentage DESC;
+
