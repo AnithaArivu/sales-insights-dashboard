@@ -1,7 +1,7 @@
 # Project Title: Sales Insights Dashboard
 
 ## 📌 Overview
-This project analyzes sales data using SQL, Tableau, and AI forecasting.  
+This project analyzes sales data using SQL, Tableau, and AI forecasting. 
 It demonstrates skills in data cleaning, visualization, and predictive analytics.
 
 ## 🛠 Tools & Technologies
