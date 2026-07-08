@@ -21,3 +21,4 @@ model.fit(X, y)
 next_month = [[max(X['Month']) + 1]]
 prediction = model.predict(next_month)
 print("Predicted Sales for Next Month:", prediction[0])
+
