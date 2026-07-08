@@ -17,3 +17,4 @@ FROM Orders
 GROUP BY Category
 ORDER BY Profit_Margin_Percentage DESC;
 
+
