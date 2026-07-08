@@ -13,4 +13,4 @@
 - Trend lines and confidence intervals.
 
 ---
-📌 Screenshots will be added here once dashboards are ready.
+📌 Screenshots will be added here once dashboards are ready. 
